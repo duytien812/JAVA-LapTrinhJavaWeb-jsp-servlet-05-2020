@@ -1,0 +1,19 @@
+﻿JAVA_LapTrinhJavaWeb_jsp-servlet-05-2020
+
+0. THÔNG TIN
+- jsp servlet - Lập trình java web backend học java web 
+- Xuất bản: 31-12-2020
+- https://www.youtube.com/watch?v=wI_Dny6Q658&list=PLW1k06REn7HsHn6D6e27gtFm-HXrZDLPX&index=1
+
+- JDK 8
+- MySQL 8
+- Tomcat (apache-tomcat-8.5.34-windows-x64.zip)
+- Maven (apache-maven-3.6.0-bin.tar.gz) 
+- Eclip EE
+
+
+1. DANH SÁCH BÀI HỌC
+1-57:
+
+1. Dựng Project sử dụng Maven
+	- 8. Hướng dẫn học tạo project java web jsp servlet theo mô hình MVC phần 2
