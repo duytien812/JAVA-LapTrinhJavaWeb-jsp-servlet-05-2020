@@ -17,3 +17,9 @@
 
 1. Dựng Project sử dụng Maven
 	- 8. Hướng dẫn học tạo project java web jsp servlet theo mô hình MVC phần 2
+8. Hướng dẫn học tạo project java web jsp servlet theo mô hình MVC phần 2
+	- Build phần view (jsp) và controller
+	- Thêm các thư viện vào pom.xml:
+	 + jsp - api
+	 + servlet - api
+	 + jstl (redirect trang)
