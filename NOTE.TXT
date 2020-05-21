@@ -23,3 +23,6 @@
 	 + jsp - api
 	 + servlet - api
 	 + jstl (redirect trang)
+9. Hướng dẫn học tạo project java web jsp servlet theo mô hình MVC phần 3
+	- Common thư viện jsp
+	- Truyền data từ controller sang view
