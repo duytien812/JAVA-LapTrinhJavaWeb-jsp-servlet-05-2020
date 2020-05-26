@@ -26,3 +26,15 @@
 9. Hướng dẫn học tạo project java web jsp servlet theo mô hình MVC phần 3
 	- Common thư viện jsp
 	- Truyền data từ controller sang view
+10.11. Ôn tập bootstrap trong jsp servlet phần 1 + 2
+	- Ôn tập bootstrap cơ bản không có code
+12.13.14. Hướng dẫn xây dựng giao diện bootstrap trong jsp servlet phần 1 + 2 + 3
+	- B1: Import library
+	- B2: Trong src/main/webapp
+	  + Xây dựng decorators (master layout của trang con)
+	  + Đẩy template (chứa thư viện js, css)
+	  + Tách common (chứa header, footer, menu)
+	  + views chứa các trang con
+	- B3: Import filter (lắng nghe URL)
+	  + Khi URL có chứa admin -> sẽ chuyển vào trang admin
+	  + Lưu trong WEB-INF/web.xml
